@@ -1,53 +1,53 @@
-# Nikki  
+# Nikki   
   
-**Data Science (Honors)** · AI/ML  
-
----
-
-### Overview  
+**Data Science (Honors) · AI/ML**  
   
-I approach data as a system of signals — shaped by decisions, behavior, and context.  
-My focus is not limited to building models, but understanding what they imply and how they hold under real conditions.  
+---
+  
+## Overview   
+  
+I approach data as a system of signals shaped by decisions, behavior, and context.  
+My focus extends beyond building models to understanding what they imply and how they perform under real conditions.  
 
 ---
 
-### Selected Work
+## Selected Work   
 
-**Used Car Price Regression Analysis**  
-Predictive modeling using Linear Regression and Random Forest, with emphasis on feature influence and pricing dynamics  
+**Used Car Price Regression Analysis**   
+Built regression models (Linear Regression, Random Forest) to analyze pricing behavior and feature influence   
 
-**COVID-19 Data Analysis**    
-Data cleaning, restructuring, and trend analysis across global datasets  
+**COVID-19 Data Analysis**  
+Cleaned and restructured global datasets to extract trends and patterns  
 
-**Iris Classification (LogReg vs KNN)**    
-Comparative modeling with preprocessing, evaluation, and performance interpretation   
+**Iris Classification (LogReg vs KNN)**  
+Compared models through preprocessing, evaluation, and performance interpretation  
 
-**Financial Behavior Intelligence System**  
-Segmentation, anomaly detection, and risk-oriented modeling on transaction data  
+**Financial Behavior Intelligence System**   
+Designed segmentation and anomaly detection workflows for transaction risk analysis   
 
 ---
 
-### Approach
+## Approach   
 
 Structured analysis · Model evaluation · Pattern interpretation  
-Working primarily with Python (Pandas, NumPy, Scikit-learn)  
-Familiar with SQL for basic querying and data handling  
+
+Tools: Python, Pandas, NumPy, Scikit-learn  
+SQL for data querying and handling  
 
 ---
 
-### Direction  
+## Direction   
 
-Refining model performance  
-Exploring complex datasets   
+Improving model robustness  
+Working with more complex, real-world datasets  
 Building systems that prioritize clarity over assumption  
 
 ---
 
-### GitHub  
+## GitHub
 
-![stats](https://github-readme-stats.vercel.app/api?username=nikkibhoot-29\&show_icons=true)  
+![stats](https://github-readme-stats.vercel.app/api?username=nikkibhoot-29\&show_icons=true\&hide_border=true)
 
 ---
 
-
-> Patterns exist. Precision is choosing not to ignore them.  
+Patterns exist. Precision is choosing not to ignore them.  
