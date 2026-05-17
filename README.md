@@ -44,10 +44,4 @@ Building systems that prioritize clarity over assumption
 
 ---
 
-## GitHub
-
-![stats](https://github-readme-stats.vercel.app/api?username=nikkibhoot-29\&show_icons=true\&hide_border=true)
-
----
-
 Patterns exist. Precision is choosing not to ignore them.  
